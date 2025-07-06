@@ -17,3 +17,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnsltk&layout=compact&langs_count=8&hide_title=true">
   </a>
 </p>
+
+## Projects outside of GitHub
+
+[T-Reqs VS Code](https://gitlab.com/treqs-on-git/treqs-vscode) (BSc thesis project)
